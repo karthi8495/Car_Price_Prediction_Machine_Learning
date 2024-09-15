@@ -52,6 +52,6 @@ This project was built using data from CarDekho and relies on several open-sourc
 
 # References
 
-CarDekho
-Scikit-learn Documentation
+CarDekho,
+Scikit-learn Documentation,
 Streamlit Documentation
