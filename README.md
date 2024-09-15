@@ -15,9 +15,7 @@ Description: A detailed report that covers the entire project lifecycle, from pr
 4. User Guide
 File: User_Reference.pdf
 Description: A step-by-step guide that explains how to use the Streamlit application effectively. It provides instructions on navigating the app, inputting data, and interpreting the results, making it easy for users of all technical backgrounds to interact with the model.
-5. Resources
-File: resources.zip
-Contents: This ZIP file contains all necessary resources, including the cleaned dataset used for training, joblib files for saving and loading models, and any additional resources that support the project.
+
 Getting Started
 Prerequisites
 To run the notebook and Streamlit application, ensure you have the following installed:
