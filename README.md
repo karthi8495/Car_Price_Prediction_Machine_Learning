@@ -1,8 +1,8 @@
 # Car Price Prediction Using Machine Learning
-Overview
+# Overview
 This repository showcases a comprehensive machine learning project focused on predicting the prices of used cars based on various features such as make, model, year, fuel type, transmission type, and more. By leveraging historical data from CarDekho, this project aims to create an accurate and user-friendly tool that enhances customer experience and streamlines the pricing process for sales representatives. The final product is a deployed Streamlit application that allows users to input car details and receive instant price predictions.
 
-Project Structure
+# Project Structure
 1. Jupyter Notebook
 File: Car_Dekho.ipynb
 Description: This notebook documents the entire process of data cleaning, feature engineering, model selection, training, and evaluation. The notebook includes exploratory data analysis (EDA) to understand the key features influencing car prices, followed by multiple machine learning models, such as Linear Regression, Decision Trees, Random Forest, and Gradient Boosting, with hyperparameter tuning for optimal performance.
@@ -46,11 +46,11 @@ Project_Report.pdf: The comprehensive project report.
 User_Reference.pdf: A detailed user guide for the Streamlit application.
 
 
-Acknowledgements
+# Acknowledgements
 
 This project was built using data from CarDekho and relies on several open-source libraries, including Scikit-learn for machine learning and Streamlit for web application deployment.
 
-References
+# References
 
 CarDekho
 Scikit-learn Documentation
