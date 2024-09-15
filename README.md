@@ -20,8 +20,10 @@ Getting Started
 Prerequisites
 To run the notebook and Streamlit application, ensure you have the following installed:
 
-Python 3.12
-Required Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
+# Python 3.12
+
+# Required Python libraries: 
+pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
 Using the Streamlit Application
 
 Input Fields: The application allows users to input various car attributes such as make, model, year, fuel type, transmission type, mileage, and more.
@@ -51,5 +53,7 @@ This project was built using data from CarDekho and relies on several open-sourc
 # References
 
 CarDekho,
+
 Scikit-learn Documentation,
+
 Streamlit Documentation
